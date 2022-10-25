@@ -1,0 +1,14 @@
+Untitled.ipynb
+.ipynb_checkpoints
+my_commands.*
+utility/exam_file.*
+utility/compute_hours.py
+metadata_old
+metadata/*.zip
+utility/*_old.py
+utility/silence_remover.py
+wsj0_mixture/*_wsj0.py
+wsj0_mixture/*_wsj0_*.py
+librispeech_mixture/*_librispeech.py
+dihard_mixture/*
+__pycache__
